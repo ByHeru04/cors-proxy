@@ -1,4 +1,4 @@
-name = "cors"
+name = "cors-proxy"
 type = "javascript"
 account_id = "f096dc44552b5b1068ed384dd4ca3195"
 workers_dev = true
