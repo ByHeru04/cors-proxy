@@ -5,7 +5,7 @@ Simple CORS proxy
 ## Usage
 
 ```
-https://cors.ryanking13.workers.dev/?u=https://www.google.com
+https://test.byheru-premium.workers.dev/?u=https://www.google.com
 ```
 
 __WARNING:__
